@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-nmaryala-calculator",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "n8n node that adds three numbers and returns the sum",
     "license": "MIT",
     "homepage": "https://github.com/nikhil-maryala/n8n-nodes-nmaryala-calculator",
