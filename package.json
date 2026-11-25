@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-nmaryala-calculator",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "n8n node that adds three numbers and returns the sum",
     "license": "MIT",
     "homepage": "https://github.com/nikhil-maryala/n8n-nodes-nmaryala-calculator",
@@ -15,15 +15,15 @@
         "type": "git",
         "url": "https://github.com/nikhil-maryala/n8n-nodes-nmaryala-calculator.git"
     },
-   "scripts": {
-		"build": "n8n-node build",
-		"build:watch": "tsc --watch",
-		"dev": "n8n-node dev",
-		"lint": "n8n-node lint",
-		"lint:fix": "n8n-node lint --fix",
-		"release": "n8n-node release",
-		"prepublishOnly": "n8n-node prerelease"
-	},
+    "scripts": {
+        "build": "n8n-node build",
+        "build:watch": "tsc --watch",
+        "dev": "n8n-node dev",
+        "lint": "n8n-node lint",
+        "lint:fix": "n8n-node lint --fix",
+        "release": "n8n-node release",
+        "prepublishOnly": "n8n-node prerelease"
+    },
     "files": [
         "dist"
     ],
